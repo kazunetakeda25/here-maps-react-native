@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "F:\\Mobile Development\\ReactNative\\react-native-here-maps\\android\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-xlarge-land-v4\\values-xlarge-land-v4.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Sweet Mei\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.1.aar\\4d86cdc333e663c1b8e7c8dbee67483b\\res\\values-xlarge-land\\values-xlarge-land.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "4",
+                        "startOffsets": "288",
+                        "endColumns": "63",
+                        "endOffsets": "347"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "63",
+                        "endOffsets": "114"
+                    }
+                }
+            ]
+        }
+    ]
+}
