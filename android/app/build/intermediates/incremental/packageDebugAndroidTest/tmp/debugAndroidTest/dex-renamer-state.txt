@@ -1,0 +1,4 @@
+#Tue Nov 12 00:51:36 CST 2019
+base.0=F\:\\Mobile Development\\ReactNative\\react-native-here-maps\\android\\app\\build\\intermediates\\transforms\\dexMerger\\androidTest\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
